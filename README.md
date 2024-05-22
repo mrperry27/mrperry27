@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrperry27
+- 👋 Hi, I'm Perry
 - 👀 I’m interested in football and basketball  
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
