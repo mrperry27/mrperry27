@@ -5,7 +5,7 @@
 - 📫 How to reach me 0201618620
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: ...
--    22nd May,2024
+-    22nd May,2024.
 -    
 <!---
 mrperry27/mrperry27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
